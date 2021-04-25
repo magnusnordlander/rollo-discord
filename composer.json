@@ -12,7 +12,9 @@
     "require": {
         "php": "8.0.*",
         "ext-event": "*",
-        "team-reflex/discord-php": "^6.0"
+        "team-reflex/discord-php": "^6.0",
+        "symfony/dotenv": "^5.2",
+        "fervo/rollo": "^1.0"
     },
     "require-dev": {
         "roave/security-advisories": "dev-master"
