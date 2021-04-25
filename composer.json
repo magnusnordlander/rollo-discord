@@ -11,7 +11,7 @@
     ],
     "require": {
         "php": "8.0.*",
-        "ext-libev": "*",
+        "ext-event": "*",
         "team-reflex/discord-php": "^6.0"
     },
     "require-dev": {
