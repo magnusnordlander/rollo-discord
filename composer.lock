@@ -175,20 +175,17 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/fervo/Rollo.git",
-                "reference": "0c93f82dd53d87a2d6b1af294d737762dbbd80b4"
+                "reference": "82648205474d08155632b6c8c8c3d081b0ef3fd3"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/fervo/Rollo/zipball/0c93f82dd53d87a2d6b1af294d737762dbbd80b4",
-                "reference": "0c93f82dd53d87a2d6b1af294d737762dbbd80b4",
+                "url": "https://api.github.com/repos/fervo/Rollo/zipball/82648205474d08155632b6c8c8c3d081b0ef3fd3",
+                "reference": "82648205474d08155632b6c8c8c3d081b0ef3fd3",
                 "shasum": ""
             },
             "require": {
                 "doctrine/collections": "~1.0",
                 "php": ">=8.0"
-            },
-            "require-dev": {
-                "phpunit/phpunit": "~5.0"
             },
             "type": "library",
             "autoload": {
@@ -202,7 +199,7 @@
                 "issues": "https://github.com/fervo/Rollo/issues",
                 "source": "https://github.com/fervo/Rollo/tree/php8"
             },
-            "time": "2021-04-25T15:52:29+00:00"
+            "time": "2021-05-16T19:30:14+00:00"
         },
         {
             "name": "guzzlehttp/psr7",
